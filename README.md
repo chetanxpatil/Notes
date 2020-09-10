@@ -6,15 +6,16 @@ swipes.
 
 It's Purely used Hive Database For Back end.
 
-## Getting Started
+# Social Handles
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+  <a href="https://www.linkedin.com/chetanxpatil" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/chetanxpatil" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>&nbsp; 
+  <a href="https://instagram.com/chetanxpatil" rel="nofollow noreferrer">
+    <img src="https://www.freepngimg.com/thumb/logo/62372-computer-neon-instagram-icons-hd-image-free-png.png" height="15" alt="instagram"> Instagram
+  </a>
+</p>
