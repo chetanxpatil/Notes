@@ -9,7 +9,7 @@ It's Purely used Hive Database For Back end.
 # Social Handles
 
 <p>
-  <a href="https://www.linkedin.com/chetanxpatil" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/chetanxpatil" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/chetanxpatil" rel="nofollow noreferrer">
